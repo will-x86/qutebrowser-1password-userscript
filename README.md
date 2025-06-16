@@ -24,3 +24,11 @@ Also, unsure how the original script worked, but I have this key binding for whe
 
 PR's are welcome 
 
+
+
+
+- When setting master password it doesn't work, but after this the 1password gui cli integration prompts, so this needs to be fixed and is a bit of a temporary workaround 
+
+
+
+No idea how OP changed their CLI
