@@ -13,4 +13,14 @@ Thanks !
 Ensure you have awk, jq, "op" ( 1Password cli ), sed,rofi
 
 
+Also, unsure how the original script worked, but I have this key binding for when I'm adding passwords:
+```
+    keyBindings = {
+      normal = {
+        ",p" = "spawn --userscript 1password.js";
+      };
+
+```
+
+PR's are welcome 
 
